@@ -1,0 +1,1 @@
+Scoring (including the high score) now works perfectly, and the "r" key resets the high score. High score is loaded and saved from a file. Game Overs can be triggered as they should be (untested?). But nothing actually happens now. Need to fill in all the "Notification" events with sound, and put a Game Over screen for Program/Game Over. Then we'll be about done!

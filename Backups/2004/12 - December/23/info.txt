@@ -1,0 +1,1 @@
+Seems to be some bug with squares on the right side of the board being found when they don't exist. Fixed it. Need to enable a key repeat of some sort. Added the start of displaying the score. Doesn't look great, need a higher resolution texture, transparency, or SOMETHING to fix it.

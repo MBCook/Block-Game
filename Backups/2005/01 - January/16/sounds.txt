@@ -1,0 +1,10 @@
+Sounds Needed:	  Origional:	  New:
+--------------------------------------
+
+Piece Placed	- Chink.wav	- place.wav
+Forced Place	- Peew.wav	- forced.wav
+Can't Place	- Bellell.wav	- badplace.wav
+Can't Move	- Jounk.wav	- badmove.wav
+Game Over	- Orly.wav	- gameover.wav
+Block Removed	- Butane.wav	- removed.wav
+Got High Score	- Congrats.wav	- gothigh.wav

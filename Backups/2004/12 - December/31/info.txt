@@ -1,0 +1,1 @@
+Keyboard repeat function added, just a single line thanks to SDL/PyGame. Added the rest of the info display (exect for the next piece, that is for later). Clock ticks down, and when it runs out, it sends an event (that is currently not implemented). Time restarts when you place a piece too.

@@ -1,0 +1,7 @@
+For a 4x3 grid with 8 unit border, the total size was 48x40.
+	The camera looked good at 54 for the "above" variable.
+	Lighting looked good at -1, 0.5, 1.5
+
+For a 16x15 grid with 8 unit border, the total size was 144x136.
+	The camera looked good at 160 for the "above" variable.
+	Lighting looked good at -1, 0.5, 1.5 (and always will!)

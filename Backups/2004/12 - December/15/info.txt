@@ -1,0 +1,1 @@
+Big change is that the smooth movement of the piece has been removed. Maybe I'll put it back in later. This just makes things easier for now because it would complicate things in dropping peaces and such. Put an event queue in place to handle the event loop.

@@ -1,0 +1,9 @@
+Found sounds for the various actions, created the sound code, and made sure everything had a doc string. Some sounds don't work. Gameover state DOES work (quits for now, that needs to be fixed). The sounds that don't work don't cause error messages.
+
+Gameover - Works
+Can't Move - Works
+Can't Place - Works
+Placed - Doesn't Work
+Removed - Doesn't Work
+Forced - Doesn't Work
+Got High - Works

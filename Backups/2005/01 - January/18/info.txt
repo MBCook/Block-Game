@@ -1,0 +1,1 @@
+Just a quick update today. All the sounds work now, the ones that weren't working never had the appropriate messages added to the queue. Once they were added, things were golden. Also fixed a bug where ALL sound files had to fail to load before an error was handled. Still need the gameover screen and such, but looking quite complete.

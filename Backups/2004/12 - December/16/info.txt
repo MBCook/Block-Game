@@ -1,0 +1,4 @@
+Worked on placing pieces, rotating pieces (but not at arbitrary angles).
+Found (and fixed!) bugs in RotateBlocks code.
+
+Placing the piece causes things to bail with errors. Gotta fix that.

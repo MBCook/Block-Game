@@ -1,0 +1,1 @@
+Piece now moves around (but keystrokes don't repeat). The magic square is highlighted, and there are lines so you can tell the squares of the board apart.

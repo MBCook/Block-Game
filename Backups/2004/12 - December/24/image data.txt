@@ -1,0 +1,13 @@
+Score:		0, 0	381, 54
+Time:		0, 56	347, 107
+High:		0, 109	353, 159
+Next:		0, 161	330, 211
+
+0-4 row starts at 213 and is 52 pixels high
+5-9 row starts at 266 and is 52 pixels high
+
+0,5 column starts at 0 and is 52 pixels wide
+1,6 column starts at 53 and is 52 pixels wide
+2,7 column starts at 106 and is 52 pixels wide
+3,8 column starts at 159 and is 52 pixels wide
+4,9 column starts at 212 and is 52 pixels wide
